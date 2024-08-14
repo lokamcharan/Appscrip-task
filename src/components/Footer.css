@@ -1,0 +1,105 @@
+
+   .footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+    background-color: #000;
+    color: #fff;
+    width: 100%;
+    
+  }
+  
+  .newsletter-contact {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .newsletter {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .newsletter h3,
+  .contact h3,
+  .currency h3,
+  .links h3 {
+    font-weight: bold;
+  }
+  
+  .subscribe {
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  .subscribe input {
+    padding: 10px;
+    border: none;
+    outline: none;
+    flex: 1;
+  }
+  
+  .subscribe button {
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .contact-currency {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: flex-end;
+    text-align: left;
+  }
+  
+  .links {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .link-section {
+    flex: 1;
+  }
+  
+  .link-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .link-section ul li {
+    margin-bottom: 5px;
+  }
+  
+  .follow-us {
+    text-align: left;
+  }
+  
+  .payment-icons img {
+    margin-right: 10px;
+    margin-top: 5px;
+  }
+  
+  .copyright {
+    border-top: 1px solid #333;
+    padding-top: 10px;
+    width: 100%;
+    text-align: center;
+  }
+  
+
+  .contact{
+    position: relative;
+    right: 420px;
+  }
+
+  .currency{
+    position: relative;
+    
+  }

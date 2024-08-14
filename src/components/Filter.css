@@ -1,0 +1,39 @@
+
+.filter-content {
+    margin-top: 10px;
+}
+
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.checkbox-container input {
+    margin-right: 5px;
+}
+
+.accordionHeaderSection {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.filter {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+.toggle-filters {
+    margin-bottom: 10px;
+    position: relative;
+    left: 200px;
+    bottom: 60px;
+    font-weight: bold;
+    border: none;
+    width: 100px;
+    height:40px;
+   
+}
+

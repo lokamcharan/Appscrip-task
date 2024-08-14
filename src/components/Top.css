@@ -1,0 +1,19 @@
+.Top {
+   
+    background-color: black;
+    justify-content: center;
+    display: flex;
+    gap: 500px;
+    height: 35px;
+
+}
+
+.Top-image{
+    position: relative;
+    top: 10px;
+}
+
+
+
+
+

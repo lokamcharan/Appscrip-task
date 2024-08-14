@@ -1,0 +1,21 @@
+
+.header1 {
+    text-align: center; 
+    padding: 80px; 
+    font-family: Simplon Norm;
+   
+
+  }
+  
+  .header1 p {
+    font-weight: 500; 
+    font-size: 60px; 
+    margin-bottom: 10px; 
+  }
+  
+  .header1 span {
+    display: block; 
+    font-weight: normal; 
+    font-size: 22px; 
+  }
+  
